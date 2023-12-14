@@ -13,5 +13,6 @@ The goal of this project was for all students to get familiarized with a simple 
 
 ## Video demonstration
 
-( Click the image to watch the video )
-[![Demo Video](https://img.youtube.com/vi/YZVRyMfajOA/0.jpg)](https://www.youtube.com/watch?v=YZVRyMfajOA)
+_( Click the image to watch the video )_
+
+[![Demo Video](https://img.youtube.com/vi/SHd-lF3oSQY/0.jpg)](https://www.youtube.com/watch?v=SHd-lF3oSQY)
