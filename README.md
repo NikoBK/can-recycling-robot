@@ -15,4 +15,4 @@ The goal of this project was for all students to get familiarized with a simple 
 
 _( Click the image to watch the video )_
 
-[![Demo Video](https://img.youtube.com/vi/SHd-lF3oSQY/0.jpg)](https://www.youtube.com/watch?v=SHd-lF3oSQY)
+[![Demo Video](https://i.ytimg.com/vi/6O9ksZEdjEQ/hqdefault.jpg)](https://www.youtube.com/watch?v=6O9ksZEdjEQ)

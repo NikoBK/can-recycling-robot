@@ -1,5 +1,5 @@
 /*
-    Created by: Nikolaj Krebs,
+    Authors: Group B378 @ AAU
     Date: 10/9/2022 10:03PM
 */ 
 
